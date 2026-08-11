@@ -50,9 +50,8 @@ The notebook produces:
 
 ## Project Structure
 
-├── GA_Feature_Selection_RandomForest_BreastCancer.ipynb   # Main notebook
-
-└── README.md
+- GA_Feature_Selection_RandomForest_BreastCancer.ipynb     # Main notebook
+- README.md
 
 ## Requirements
 
