@@ -49,8 +49,9 @@ The notebook produces:
 *(See the notebook output for exact numeric results — accuracy may vary slightly between runs due to the algorithm's inherent randomness.)*
 
 ## Project Structure
-ga-feature-selection-breast-cancer/
+
 ├── GA_Feature_Selection_RandomForest_BreastCancer.ipynb   # Main notebook
+
 └── README.md
 
 ## Requirements
