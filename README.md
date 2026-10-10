@@ -5,7 +5,7 @@ A Genetic Algorithm (GA) implementation for automated feature selection, applied
 ## Overview
 
 Feature selection is a key step in building efficient and interpretable machine learning models. Instead of using every available feature, this project uses a Genetic Algorithm to search the feature space and evolve an optimal subset of features that maximizes Random Forest classification accuracy.
-
+ 
 The workflow:
 1. Train a **baseline** Random Forest on all 30 features.
 2. Run a **Genetic Algorithm** where each chromosome represents a binary feature mask (1 = feature selected, 0 = feature excluded).
